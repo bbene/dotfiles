@@ -1,0 +1,7 @@
+.buildpath
+.idea/
+.project
+.settings/
+*.php~
+.DS_Store
+._.DS_Store
