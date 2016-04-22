@@ -15,7 +15,7 @@
         st = status
         br = branch
 [core]
-	editor = vim
+	editor = nano
         excludesfile = ~/.gitignore
 
 [color]
